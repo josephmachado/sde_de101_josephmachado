@@ -11,7 +11,7 @@
 
 ## Course details
 
-This is a self-paced course (**[sign up here](https://www.startdataengineering.com/email-course/)**), you will receive an email every 3 days. You will learn the following:
+This is a self-paced course (**[sign up here](https://www.startdataengineering.com/email-course/)**), you will receive an email every 3 days. Signing up will make you eligible for direct feedback from me! You will learn the following:
 
 ### Basics
 1. What do data engineers do?
@@ -39,7 +39,8 @@ This is a self-paced course (**[sign up here](https://www.startdataengineering.c
 
 12. How to land a high paying data job and whats next
 
-## Prerequisites:
+## Prerequisites
+
 Here is what you will need to do this course: 
 
 1. [GitHub account](https://github.com/)
@@ -47,7 +48,7 @@ Here is what you will need to do this course:
 
 Some lessons will require you to install software as needed.
 
-## Assignments:
+## Assignments
 
 Each lesson has an assignment. Please create a GitHub repository (name: sde_de101_yourname) and create individual folders for each lesson. Please use the repository you create to share your assignments with me for feedback. 
 

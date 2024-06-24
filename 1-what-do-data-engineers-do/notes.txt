@@ -1,0 +1,17 @@
+Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements?
+
+In order to enable data analytics capability in an organization, first and fore most thing that I would start with is to understand what's the end goal that we are trying to achieve. Either we need to build the dashbards or generate the reports for the decision making systems.
+
+Once we know the end goal, will trace backwards to the source systems or the kind of data that we have. Data could be coming in various forms and we need to identify the kind of data we would process and also the frequency of the data. 
+Also we need to understand the different types of data that we may need to use like unstructured data (images, videos), structured data (like flat files with the headers, fixed width files, databases) or semi structured data like jsons, xml's.
+
+We also need to take into consideration of the technology infrastructure that we have , using which how to process the data into target systems to achive the organization's objective.
+
+Also we need to see how to store the data depending on the modelling methodology that we are going to use. A data modelling needs to be done to understand on how to process the data into various units. For instance if we are using the data vault methodology, 
+then we need to finalize on the standardization rules like date formats, how to generate the hash keys, default auditing columns. Once the data is processed to raw vault, how to process the data into infomart like distinguing between the facts and dimensions. 
+
+Once the data modelling is finalised, we can start slicing the work into smaller and deliverable chunks inorder to start the work.
+
+Then we need to dig deeper into the documenting the low level documents like mapping documents or source to target mappings. 
+
+From that point rest of project lifecycle starts like data analysis, source to targte mappings, development, unit testing , quality assurance, pre prod and then PROD. 
